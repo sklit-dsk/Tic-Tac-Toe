@@ -1,9 +1,11 @@
-import NxWelcome from './nx-welcome';
+import TicTacToe from './tic-tac-toe';
+import Square from './square';
 
 export function App() {
   return (
     <div>
-      <NxWelcome title="Tic-Tac-Toe" />
+      {/* <TicTacToe /> */}
+      <Square />
     </div>
   );
 }

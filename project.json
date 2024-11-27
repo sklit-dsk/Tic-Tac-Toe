@@ -1,0 +1,10 @@
+{
+  "name": "Tic-Tac-Toe",
+  "$schema": "node_modules/nx/schemas/project-schema.json",
+  "includedScripts": [],
+  "sourceRoot": "./src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project Tic-Tac-Toe --web",
+  "targets": {}
+}

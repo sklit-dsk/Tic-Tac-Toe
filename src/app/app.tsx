@@ -1,5 +1,5 @@
-import TicTacToe from './tic-tac-toe';
-import Square from './square';
+import TicTacToe from './square';
+import Square from './board';
 
 export function App() {
   return (
